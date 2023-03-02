@@ -1,0 +1,8 @@
+{
+  "arguments": {
+    "post": {
+      "title": "Hello, world",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    }
+  }
+}

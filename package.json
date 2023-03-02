@@ -1,0 +1,15 @@
+{
+  "name": "js-reslvers-libs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "./build.sh"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@aws-appsync/utils": "^1.1.0",
+    "esbuild": "^0.17.10"
+  }
+}
