@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "./build.sh"
+    "build": "esbuild resolvers/*.js --bundle --outdir=build --external:\"@aws-appsync/utils\" --format=esm"
   },
   "author": "",
   "license": "ISC",
